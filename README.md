@@ -1,6 +1,7 @@
 # VehicleSelectorCodeChallenge
 
 ## Steps to run the project
+    * To clone the project run this command from git `git clone git@github.com:normanaranez/vehicle-selector-code-challenge.git`
     * npm install
     * follow the command below
 
